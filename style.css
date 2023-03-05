@@ -85,9 +85,9 @@ ul {
 /* Start of Preload */
 
 #bgLoading {
-    position: fixed;
+    position: absloute;
     z-index: 999998;
-    width: 0;
+    width: 100%;
     height: 100vh;
     left: 0;
     top: 0;
