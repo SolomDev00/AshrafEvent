@@ -19,7 +19,7 @@ html {
 }
 
 body {
-    width: auto;
+    width: 100%;
     height: auto;
     font-family: 'Tajawal-2', sans-serif;
     background-color: var(--dark-color);
@@ -111,7 +111,8 @@ ul {
     position: relative;
 }
 
-.loader:before ,  .loader:after {
+.loader:before ,
+.loader:after {
     content: '';
     width: 45px;
     height: 45px;
@@ -171,13 +172,13 @@ ul {
 }
 
 .get-started .heading h2 {
-    font-size: 40px;
+    font-size: 2rem;
     font-weight: bold;
     color: rgb(243, 238, 238);
 }
 
 .get-started .heading p {
-    font-size: 28px;
+    font-size: 1.2rem;
     color: #777;
 }
 
