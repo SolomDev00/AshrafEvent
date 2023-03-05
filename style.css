@@ -95,7 +95,7 @@ ul {
     position: fixed;
     left: 10%;
     top: 50%;
-    transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-10%) translateY(-50%);
     width: 210px;
     height: 210px;
     margin: auto;
