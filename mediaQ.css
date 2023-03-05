@@ -135,6 +135,18 @@
 }
 
 @media (max-width: 767px) {
+
+    .preloader {
+        position: fixed;
+        left: 50%;
+        top: 50%;
+        transform: translateX(-50%) translateY(-50%);
+        width: 210px;
+        height: 210px;
+        margin: 0 48%;
+        z-index: 999999;
+        transition: 0.7s;
+    }
     .cover-1 {
         display: none;
     }
