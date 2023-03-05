@@ -87,7 +87,7 @@ ul {
 #bgLoading {
     position: fixed;
     z-index: 999998;
-    width: 100%;
+    width: 0;
     height: 100vh;
     left: 0;
     top: 0;
