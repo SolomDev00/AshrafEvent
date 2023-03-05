@@ -102,6 +102,10 @@
 }
 
 @media (max-width: 768px) {
+    body {
+        max-width: 98%
+    }
+
     .cover-1 {
         display: none;
     }
