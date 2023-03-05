@@ -8,6 +8,10 @@
     .get-started .heading p {
         font-size: 28px;
     }
+
+    .form {
+        height: 95vh;
+    }
 }
 
 @media (max-width: 884px) {
