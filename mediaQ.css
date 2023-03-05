@@ -1,5 +1,19 @@
 /* Get-Started */
 
+@media (max-width: 1280px) {
+    .get-started .heading h2 {
+        font-size: 40px;
+    }
+
+    .get-started .heading p {
+        font-size: 28px;
+    }
+
+    .form {
+        height: 85vh;
+    }
+}
+
 @media (max-width: 884px) {
     .cover-1 {
         display: none;
@@ -363,20 +377,6 @@
 
     .thanks h2 {
         font-size: 18px;
-    }
-}
-
-@media (max-width: 1280px) {
-    .get-started .heading h2 {
-        font-size: 40px;
-    }
-
-    .get-started .heading p {
-        font-size: 28px;
-    }
-
-    .form {
-        height: 85vh;
     }
 }
 
