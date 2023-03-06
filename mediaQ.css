@@ -246,18 +246,18 @@
     .get-started .heading h2 {
         font-size: 36px;    
         text-align: center;
-        margin-right: -20px;
+        margin-right: -3px;
     }
 
     .get-started .heading p {
         width: 100%;
         font-size: 20px;
         text-align: center;
-        margin-right: 1px;
+        margin-right: 6px;
     }
 
     .form {
-        margin-left: 5%;
+        margin-left: 11%;
     }
 }
 
