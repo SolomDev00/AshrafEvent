@@ -55,6 +55,20 @@ ul {
     min-height: 97px;
 }
 
+/* LAG */
+@media (max-width: 1200px) {
+    .container {
+        width: 1170px;
+    }
+}
+
+/* MED */
+@media (max-width: 992px) {
+    .container {
+        width: 970px;
+    }
+}
+
 /* SML */
 @media (max-width: 768px) {
     .container {
@@ -62,19 +76,6 @@ ul {
     }
 }
 
-/* MED */
-@media (maxwidth: 992px) {
-    .container {
-        width: 970px;
-    }
-}
-
-/* LAG */
-@media (maxwidth: 1200px) {
-    .container {
-        width: 1170px;
-    }
-}
 
 /* End Globel Rules */
 
@@ -98,9 +99,10 @@ ul {
     transform: translateX(-50%) translateY(-50%);
     width: 210px;
     height: 210px;
-    margin: 0px 70px;
-    z-index: 999990;
+    margin: auto;
+    z-index: 999999;
     transition: 0.7s;
+}
 
 .loader {
     position: relative;
