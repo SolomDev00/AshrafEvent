@@ -8,10 +8,6 @@
     .get-started .heading p {
         font-size: 28px;
     }
-
-    .form {
-        height: 85vh;
-    }
 }
 
 @media (max-width: 884px) {
@@ -165,7 +161,7 @@
         height: 45px;
         right: 20%;
         margin-bottom: 20px;
-        margin-right: 0px;
+        margin-right: 7px;
     }
 
     .title-heading h2 {
@@ -199,7 +195,7 @@
 
     .footer h5 {
         margin-bottom: 7px;
-        margin-left: 48%;
+        margin-left: 3%;
         text-align: center;
     }
 
@@ -210,16 +206,17 @@
     .cover img {
         width: 500px;
         height: 500px;
-        margin-left: 27%;
+        margin-left: 9%;
     }
 
     .thanks {
-        width: 98%;
+        width: 100%;
         top: 80%;
-        left: 73.5%;
+        left: 51%;
     }
+
     .thanks h2 {
-        font-size: 22px;
+        font-size: 21px;
     }
 }
 
@@ -249,16 +246,18 @@
     .get-started .heading h2 {
         font-size: 36px;    
         text-align: center;
+        margin-right: -20px;
     }
 
     .get-started .heading p {
         width: 100%;
         font-size: 20px;
         text-align: center;
+        margin-right: 1px;
     }
 
     .form {
-        margin-left: 48%;
+        margin-left: 5%;
     }
 }
 
@@ -294,16 +293,18 @@
     .get-started .heading h2 {
         font-size: 32px;    
         text-align: center;
+        margin-right: -8px;
     }
 
     .get-started .heading p {
         width: 100%;
-        font-size: 19px;
+        font-size: 18px;
         text-align: center;
+        margin-right: 1px;
     }
 
     .form {
-        margin-left: 50%;
+        margin-left: 16%;
         height: 105vh;
     }
 
@@ -330,7 +331,7 @@
 
     .form {
         margin-left: 0%;
-        height: 110vh;
+        height: 105vh;
     }
 
     .form-group {
