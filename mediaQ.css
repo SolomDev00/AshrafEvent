@@ -139,6 +139,7 @@
 
     .get-started .heading {
         margin-top: 150px;
+        margin-right: 22px;
     }
 
     .get-started .heading h2 {
@@ -174,13 +175,13 @@
     
     .form {
         margin-top: 30px;
-        margin-left: 55%;
+        margin-left: 5%;
         height: 95vh;
     }
 
     .form-group {
         margin-top: 50px;
-        width: 100%;
+        width: 105%;
         height: 100%;
     }
 
@@ -191,6 +192,7 @@
     
     .footer {
         display: block;
+        margin-left: -24px;
     }
 
     .footer h5 {
@@ -246,18 +248,18 @@
     .get-started .heading h2 {
         font-size: 36px;    
         text-align: center;
-        margin-right: -3px;
+        margin-right: 1px;
     }
 
     .get-started .heading p {
         width: 100%;
         font-size: 20px;
         text-align: center;
-        margin-right: 6px;
+        margin-right: 1px;
     }
 
     .form {
-        margin-left: 11%;
+        margin-left: -1%;
     }
 }
 
@@ -274,7 +276,7 @@
     }
 
     .form {
-        margin-left: 55%;
+        margin-left: 5%;
         height: 105vh;
     }
 
@@ -362,7 +364,7 @@
     }
 
     .form {
-        margin-left: 55%;
+        margin-left: 5%;
         height: 105vh;
     }
 
